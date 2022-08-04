@@ -1,0 +1,15 @@
+2022-08-03 09:50:13 INFO  StudentWSimpl:42 - Success!
+2022-08-03 09:50:54 INFO  StudentWSimpl:42 - Success!
+2022-08-03 09:55:12 INFO  StudentWSimpl:42 - Success!
+2022-08-03 09:58:58 INFO  StudentWSimpl:42 - Success!
+2022-08-03 10:08:40 INFO  StudentWSimpl:30 - Invalid username or password!
+2022-08-03 10:09:16 INFO  StudentWSimpl:30 - Invalid username or password!
+2022-08-03 10:14:44 ERROR Main:14 - Server Runtime Error: java.net.BindException: Address already in use: bind
+2022-08-03 10:36:10 ERROR Main:14 - Server Runtime Error: java.net.BindException: Address already in use: bind
+2022-08-03 10:37:38 ERROR Main:17 - Server Runtime Error: java.net.BindException: Address already in use: bind
+2022-08-03 10:39:55 ERROR Main:17 - Server Runtime Error: java.net.BindException: Address already in use: bind
+2022-08-03 10:44:22 ERROR Main:17 - Server Runtime Error: java.net.BindException: Address already in use: bind
+2022-08-03 11:04:21 ERROR Main:14 - Server Runtime Error: java.net.BindException: Address already in use: bind
+2022-08-03 11:26:19 INFO  StudentWSimpl:41 - Success!
+2022-08-03 11:40:06 INFO  StudentWSimpl:30 - Invalid username or password!
+2022-08-03 11:41:25 INFO  StudentWSimpl:30 - Invalid username or password!
